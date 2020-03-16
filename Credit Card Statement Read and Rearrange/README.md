@@ -1,4 +1,4 @@
-This pythom script reads a credit card statement and creates a copy with simpler columns and reverses the order of entries
+This python script reads a credit card statement and creates a copy with simpler columns and reverses the order of entries
 
 1. Input: DetailStatement.xlsx
 2. Output: Hisaab OP.xls
