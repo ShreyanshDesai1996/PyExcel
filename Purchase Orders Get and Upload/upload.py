@@ -27,7 +27,7 @@ inputFile = xlrd.open_workbook("C:/Users/Shrey/Downloads/pos.xlsx")
 inputSheet = inputFile.sheet_by_index(0)
 firstDataRow = 1
 fileUrlColIndex = 7  # specify which column contains the LAN directory links to the files, this program assumes it is the last column
-fileUrlColAlphabet = "E"
+fileUrlColAlphabet = "H"
 filesDirectory = ""  # lan folder ending with slash
 
 
@@ -135,7 +135,7 @@ def start():
     #     for numcol in range(fileColumn):
     #         print("Row")
 
-    currentOutputRow = 0
+    currentOutputRow = 1
     for rowIndex in range(firstDataRow, inputSheet.nrows):
         rowObj = inputSheet.row(rowIndex)
         # comment the below lines and test, make sure output is a list where each element is of the form: text:"+919741307999"
