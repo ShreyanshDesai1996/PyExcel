@@ -19,14 +19,16 @@ SCOPES = ["https://www.googleapis.com/auth/drive"]
 creds = None
 drive_service = None
 
-uploadFilesToFolder = ""
+uploadFilesToFolder = "1B6JrT9z7sGv9cvRyc3wqInlJlkJoFDgm"
 uploadSheetToFolder = ""
 
 inputFile = xlrd.open_workbook("C:/Users/Shrey/Downloads/nonsteel-cleaned-unsub.xls")
 inputSheet = inputFile.sheet_by_index(0)
+firstDataRow = 1
+fileColumn = 4
 
 # specify which column contains the LAN directory links to the files
-fileColumn = 4
+# assuming this is the last column
 copiedFilePath = ""
 
 
@@ -93,21 +95,22 @@ def addFileAndRowToExcel(rowNum, rowData):
 
 
 def start():
+
+    global uploadFilesToFolder, inputSheet, firstDataRow, fileColumn
     print("reading now")
     # do Google Auth
     doGoogleAuth()
 
     # test google auth
     # testGoogleAuth()
+    # uploadFileToDrive("google_test.py", "google_test.py", uploadFilesToFolder)
 
-    global uploadFilesToFolder
-    uploadFilesToFolder = "1B6JrT9z7sGv9cvRyc3wqInlJlkJoFDgm"
-    uploadFileToDrive("google_test.py", "google_test.py", uploadFilesToFolder)
     # read row of local excel
-
-    # getFileFromLAN
-
-    # addFileAndRowToExcel
+    print("This excel has " + str(inputSheet.nrows) + " rows")
+    for cur_row in range(firstDataRow, inputSheet.nrows):
+        for numcol in fileColumn:
+            print("Row")
+        # addFileAndRowToExcel
 
 
 start()
