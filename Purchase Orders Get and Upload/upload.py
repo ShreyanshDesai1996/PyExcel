@@ -18,15 +18,17 @@ creds = None
 drive_service = None
 sheets_service = None
 
+
+# Variables to set before running
 uploadFilesToFolder = "1B6JrT9z7sGv9cvRyc3wqInlJlkJoFDgm"
 googleSheetId = ""
 
-inputFile = xlrd.open_workbook("C:/Users/Shrey/Downloads/nonsteel-cleaned-unsub.xls")
+inputFile = xlrd.open_workbook("C:/Users/Shrey/Downloads/pos.xlsx")
 inputSheet = inputFile.sheet_by_index(0)
 firstDataRow = 1
-fileUrlColIndex = 4
+fileUrlColIndex = 7
 fileUrlColAlphabet = "E"
-
+filesDirectory = ""
 # specify which column contains the LAN directory links to the files
 # assuming this is the last column
 # copiedFilePath = ""
@@ -83,16 +85,15 @@ def uploadFileToDrive(fileName, filePath, driveFolderId):
 
 
 def addFileAndRowToExcel(rowNum, rowData):
-    global sheets_service, fileUrlColIndex, fileUrlColAlphabet, uploadFilesToFolder, googleSheetId
+    global sheets_service, fileUrlColIndex, fileUrlColAlphabet, uploadFilesToFolder, googleSheetId, filesDirectory
     # row data is a list of what each row must contain (array)(each element in an xlrd Cell object)
     rowAsListArr = []
     for i in range(fileUrlColIndex):
         rowAsListArr.append(rowData[i].value)
     # call uploadFileToDrive
-    fileName = "PO" + str(rowNum) + ".pdf"
-    filePath = str(rowData[fileUrlColIndex]).split("'")[
-        1
-    ]  # https://stackoverflow.com/questions/7169845/using-python-how-can-i-access-a-shared-folder-on-windows-network
+    fileName = rowData[fileUrlColIndex].value.split("\\")[1]
+    filePath = filesDirectory + str(rowData[fileUrlColIndex].value)
+    # https://stackoverflow.com/questions/7169845/using-python-how-can-i-access-a-shared-folder-on-windows-network
     fileId = uploadFileToDrive(fileName, filePath, uploadFilesToFolder)
     # after file is uploaded replace rowData array element at index fileColumn with the google drive file url
     rowData[fileUrlColIndex] = fileId
@@ -136,12 +137,15 @@ def start():
     #         print("Row")
 
     currentOutputRow = 0
-    for rowIndex in range(firstDataRow, inputSheet.nrows):
+    for rowIndex in range(firstDataRow, 5):
         rowObj = inputSheet.row(rowIndex)
         # comment the below lines and test, make sure output is a list where each element is of the form: text:"+919741307999"
-        addFileAndRowToExcel(currentOutputRow, rowObj)
-        currentOutputRow = currentOutputRow + 1
-
+        # addFileAndRowToExcel(currentOutputRow, rowObj)
+        # currentOutputRow = currentOutputRow + 1
+        fileName = rowObj[fileUrlColIndex].value.split("\\")[1]
+        filePath = filesDirectory + str(rowObj[fileUrlColIndex].value)
+        fileId = uploadFileToDrive(fileName, filePath, uploadFilesToFolder)
+        print(fileId)
     # addFileAndRowToExcel
 
 
