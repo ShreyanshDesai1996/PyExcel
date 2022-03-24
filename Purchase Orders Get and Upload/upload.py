@@ -86,12 +86,13 @@ def addFileAndRowToExcel(rowNum, rowData):
     global sheets_service, fileUrlColIndex, fileUrlColAlphabet, uploadFilesToFolder, googleSheetId
     # row data is a list of what each row must contain (array)(each element in an xlrd Cell object)
     rowAsListArr = []
-    for i in range(len(rowData)):
-        if i <= fileUrlColIndex:
-            rowAsListArr.appent(rowData[i].value)
+    for i in range(fileUrlColIndex):
+        rowAsListArr.append(rowData[i].value)
     # call uploadFileToDrive
     fileName = "PO" + str(rowNum) + ".pdf"
-    filePath = str(rowData[fileUrlColIndex]).split("'")[1]
+    filePath = str(rowData[fileUrlColIndex]).split("'")[
+        1
+    ]  # https://stackoverflow.com/questions/7169845/using-python-how-can-i-access-a-shared-folder-on-windows-network
     fileId = uploadFileToDrive(fileName, filePath, uploadFilesToFolder)
     # after file is uploaded replace rowData array element at index fileColumn with the google drive file url
     rowData[fileUrlColIndex] = fileId
@@ -137,7 +138,6 @@ def start():
     currentOutputRow = 0
     for rowIndex in range(firstDataRow, inputSheet.nrows):
         rowObj = inputSheet.row(rowIndex)
-        print(rowObj)
         # comment the below lines and test, make sure output is a list where each element is of the form: text:"+919741307999"
         addFileAndRowToExcel(currentOutputRow, rowObj)
         currentOutputRow = currentOutputRow + 1
