@@ -20,18 +20,15 @@ sheets_service = None
 
 
 # Variables to set before running
-uploadFilesToFolder = "1B6JrT9z7sGv9cvRyc3wqInlJlkJoFDgm"
-googleSheetId = ""
+uploadFilesToFolder = "1S55SU2XyfIRmfjYhfsW31vy7kHj5Ju4c"
+googleSheetId = "1gMe0WxcE7H2d0bGEJmVc8LStP25HITmEzFRKIKbSUJE"
 
 inputFile = xlrd.open_workbook("C:/Users/Shrey/Downloads/pos.xlsx")
 inputSheet = inputFile.sheet_by_index(0)
 firstDataRow = 1
-fileUrlColIndex = 7
+fileUrlColIndex = 7  # specify which column contains the LAN directory links to the files, this program assumes it is the last column
 fileUrlColAlphabet = "E"
-filesDirectory = ""
-# specify which column contains the LAN directory links to the files
-# assuming this is the last column
-# copiedFilePath = ""
+filesDirectory = ""  # lan folder ending with slash
 
 
 def doGoogleAuth():
@@ -137,15 +134,11 @@ def start():
     #         print("Row")
 
     currentOutputRow = 0
-    for rowIndex in range(firstDataRow, 5):
+    for rowIndex in range(firstDataRow, inputSheet.nrows):
         rowObj = inputSheet.row(rowIndex)
         # comment the below lines and test, make sure output is a list where each element is of the form: text:"+919741307999"
-        # addFileAndRowToExcel(currentOutputRow, rowObj)
-        # currentOutputRow = currentOutputRow + 1
-        fileName = rowObj[fileUrlColIndex].value.split("\\")[1]
-        filePath = filesDirectory + str(rowObj[fileUrlColIndex].value)
-        fileId = uploadFileToDrive(fileName, filePath, uploadFilesToFolder)
-        print(fileId)
+        addFileAndRowToExcel(currentOutputRow, rowObj)
+        currentOutputRow = currentOutputRow + 1
     # addFileAndRowToExcel
 
 
