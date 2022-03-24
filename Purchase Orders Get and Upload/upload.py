@@ -1,9 +1,6 @@
 from __future__ import print_function
-from cgi import test
-from operator import truediv
 import shutil
 import xlrd
-import re
 import os
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
@@ -13,28 +10,30 @@ from googleapiclient.errors import HttpError
 from googleapiclient.http import MediaFileUpload
 import os.path
 
-
+# Google Auth variables
+# https://developers.google.com/drive/api/quickstart/python
 # If modifying these scopes, delete the file token.json.
 SCOPES = ["https://www.googleapis.com/auth/drive"]
 creds = None
 drive_service = None
+sheets_service = None
 
 uploadFilesToFolder = "1B6JrT9z7sGv9cvRyc3wqInlJlkJoFDgm"
-uploadSheetToFolder = ""
+googleSheetId = ""
 
 inputFile = xlrd.open_workbook("C:/Users/Shrey/Downloads/nonsteel-cleaned-unsub.xls")
 inputSheet = inputFile.sheet_by_index(0)
 firstDataRow = 1
-fileColumn = 4
+fileUrlColIndex = 4
+fileUrlColAlphabet = "E"
 
 # specify which column contains the LAN directory links to the files
 # assuming this is the last column
-copiedFilePath = ""
+# copiedFilePath = ""
 
 
 def doGoogleAuth():
-    global creds
-    global drive_service
+    global creds, drive_service, sheets_service
     # The file token.json stores the user's access and refresh tokens, and is
     # created automatically when the authorization flow completes for the first
     # time.
@@ -51,6 +50,7 @@ def doGoogleAuth():
         with open("token.json", "w") as token:
             token.write(creds.to_json())
     drive_service = build("drive", "v3", credentials=creds)
+    sheets_service = build("sheets", "v4", credentials=creds)
 
 
 def getFileFromLAN(url):  # maybe also pass file name based on po number from excel?
@@ -63,11 +63,8 @@ def getFileFromLAN(url):  # maybe also pass file name based on po number from ex
 
 def uploadFileToDrive(fileName, filePath, driveFolderId):
     global drive_service
-    driveUrl = ""
-    # do google work
-    print("File uploaded")
-
     global creds
+
     try:
 
         file_metadata = {"name": fileName, "parents": [driveFolderId]}
@@ -77,40 +74,75 @@ def uploadFileToDrive(fileName, filePath, driveFolderId):
             .create(body=file_metadata, media_body=media, fields="id")
             .execute()
         )
-        print("File ID: " + file.get("id"))
+        return file.get("id")
 
     except HttpError as error:
         # TODO(developer) - Handle errors from drive API.
         print(f"An error occurred: {error}")
+        return False
 
 
 def addFileAndRowToExcel(rowNum, rowData):
-    # row data is an array of what each row must contain
-
+    global sheets_service, fileUrlColIndex, fileUrlColAlphabet, uploadFilesToFolder, googleSheetId
+    # row data is a list of what each row must contain (array)(each element in an xlrd Cell object)
+    rowAsListArr = []
+    for i in range(len(rowData)):
+        if i <= fileUrlColIndex:
+            rowAsListArr.appent(rowData[i].value)
     # call uploadFileToDrive
-
+    fileName = "PO" + str(rowNum) + ".pdf"
+    filePath = str(rowData[fileUrlColIndex]).split("'")[1]
+    fileId = uploadFileToDrive(fileName, filePath, uploadFilesToFolder)
     # after file is uploaded replace rowData array element at index fileColumn with the google drive file url
+    rowData[fileUrlColIndex] = fileId
 
-    print("Added PO")
+    # upload the row to the set google sheet
+    sheetEditRange = "Sheet1!A" + rowNum + ":" + fileUrlColAlphabet + rowNum
+    sheetValues = [rowAsListArr]
+    reqBody = {"values": sheetValues}
+    result = (
+        sheets_service.spreadsheets()
+        .values()
+        .update(
+            spreadsheetId=googleSheetId,
+            range=sheetEditRange,
+            valueInputOption="USER_ENTERED",
+            body=reqBody,
+        )
+        .execute()
+    )
+    print("{0} cells updated.".format(result.get("updatedCells")))
 
 
 def start():
 
     global uploadFilesToFolder, inputSheet, firstDataRow, fileColumn
-    print("reading now")
+    print("Starting...")
     # do Google Auth
     doGoogleAuth()
 
     # test google auth
     # testGoogleAuth()
-    # uploadFileToDrive("google_test.py", "google_test.py", uploadFilesToFolder)
+    # upload a file to a folder
+    # fileId = uploadFileToDrive("google_test.py", "google_test.py", uploadFilesToFolder)
 
-    # read row of local excel
+    # if fileId:
+    #    print(fileId)
+
     print("This excel has " + str(inputSheet.nrows) + " rows")
-    for cur_row in range(firstDataRow, inputSheet.nrows):
-        for numcol in fileColumn:
-            print("Row")
-        # addFileAndRowToExcel
+    # for cur_row in range(firstDataRow, inputSheet.nrows):
+    #     for numcol in range(fileColumn):
+    #         print("Row")
+
+    currentOutputRow = 0
+    for rowIndex in range(firstDataRow, inputSheet.nrows):
+        rowObj = inputSheet.row(rowIndex)
+        print(rowObj)
+        # comment the below lines and test, make sure output is a list where each element is of the form: text:"+919741307999"
+        addFileAndRowToExcel(currentOutputRow, rowObj)
+        currentOutputRow = currentOutputRow + 1
+
+    # addFileAndRowToExcel
 
 
 start()
