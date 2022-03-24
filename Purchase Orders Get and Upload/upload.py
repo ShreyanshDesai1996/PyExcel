@@ -93,7 +93,9 @@ def addFileAndRowToExcel(rowNum, rowData):
     # https://stackoverflow.com/questions/7169845/using-python-how-can-i-access-a-shared-folder-on-windows-network
     fileId = uploadFileToDrive(fileName, filePath, uploadFilesToFolder)
     # after file is uploaded replace rowData array element at index fileColumn with the google drive file url
-    rowData[fileUrlColIndex] = fileId
+    rowData[fileUrlColIndex] = (
+        "https://drive.google.com/file/d/" + fileId + "/view?usp=sharing"
+    )
 
     # upload the row to the set google sheet
     sheetEditRange = "Sheet1!A" + rowNum + ":" + fileUrlColAlphabet + rowNum
