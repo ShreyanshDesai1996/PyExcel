@@ -20,15 +20,15 @@ sheets_service = None
 
 
 # Variables to set before running
-uploadFilesToFolder = "1S55SU2XyfIRmfjYhfsW31vy7kHj5Ju4c"
-googleSheetId = "1gMe0WxcE7H2d0bGEJmVc8LStP25HITmEzFRKIKbSUJE"
+uploadFilesToFolder = "1GjMjk6_7EByBPTiDit5niXS60DM3dZcY"
+googleSheetId = "1c-Dga-j8xqWtWuGvgb6rFtYDqRyOW35xRP-bHR8G8Ik"
 
-inputFile = xlrd.open_workbook("C:/Users/Shrey/Downloads/pos.xlsx")
+inputFile = xlrd.open_workbook("C:/Users/Shrey/Downloads/RRM/RRM.xlsx")
 inputSheet = inputFile.sheet_by_index(0)
-firstDataRow = 1
+firstDataRow = 692
 fileUrlColIndex = 7  # specify which column contains the LAN directory links to the files, this program assumes it is the last column
 fileUrlColAlphabet = "H"
-filesDirectory = ""  # lan folder ending with slash
+filesDirectory = "C:/Users/Shrey/Downloads/RRM/RRMFile/"  # lan folder ending with slash
 
 
 def doGoogleAuth():
@@ -85,20 +85,20 @@ def addFileAndRowToExcel(rowNum, rowData):
     global sheets_service, fileUrlColIndex, fileUrlColAlphabet, uploadFilesToFolder, googleSheetId, filesDirectory
     # row data is a list of what each row must contain (array)(each element in an xlrd Cell object)
     rowAsListArr = []
-    for i in range(fileUrlColIndex):
+    for i in range(fileUrlColIndex + 1):
         rowAsListArr.append(rowData[i].value)
     # call uploadFileToDrive
     fileName = rowData[fileUrlColIndex].value.split("\\")[1]
-    filePath = filesDirectory + str(rowData[fileUrlColIndex].value)
+    filePath = filesDirectory + fileName
     # https://stackoverflow.com/questions/7169845/using-python-how-can-i-access-a-shared-folder-on-windows-network
     fileId = uploadFileToDrive(fileName, filePath, uploadFilesToFolder)
     # after file is uploaded replace rowData array element at index fileColumn with the google drive file url
-    rowData[fileUrlColIndex] = (
+    rowAsListArr[fileUrlColIndex] = (
         "https://drive.google.com/file/d/" + fileId + "/view?usp=sharing"
     )
 
     # upload the row to the set google sheet
-    sheetEditRange = "Sheet1!A" + rowNum + ":" + fileUrlColAlphabet + rowNum
+    sheetEditRange = "Sheet1!A" + str(rowNum) + ":" + fileUrlColAlphabet + str(rowNum)
     sheetValues = [rowAsListArr]
     reqBody = {"values": sheetValues}
     result = (
@@ -135,7 +135,7 @@ def start():
     #     for numcol in range(fileColumn):
     #         print("Row")
 
-    currentOutputRow = 1
+    currentOutputRow = 689
     for rowIndex in range(firstDataRow, inputSheet.nrows):
         rowObj = inputSheet.row(rowIndex)
         # comment the below lines and test, make sure output is a list where each element is of the form: text:"+919741307999"
