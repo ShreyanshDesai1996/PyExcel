@@ -1,0 +1,1192 @@
+AC Drives
+AC Drives/AC Drive/0.37KW/ACS150-03E-01A2-4
+AC Drives/AC Drive/2.2KW/ACS355-03E-05A6-4
+AC Drives/AC Drive/3.7KW/ACS560-01-09A4-4
+AC Drives/AC DRIVE/3KW/ACS150-03E-07A3-4
+AC Drives/AC DRIVE/5.5KW/ACS550-01-012A-4
+AC Drives/AC DRIVE/7.5KW/ACS355-03E-15A6-4
+AC Drives/AC DRIVE/7.5KW/ACS550-01-015A-4
+AC Motors
+AC Motors/Cooling Tower Motors
+AC Motors/Cooling Tower Motors/3.7KW/570RPM/160M/Cooling Tower(New India)
+AC Motors/Crane Duty Motors
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/0.37KW/1500RPM/BKH90(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/0.37KW/1500RPM/PM71(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/0.55KW/1500RPM/PM71(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/0.75KW/1500RPM/KD80(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/0.75KW/1500RPM/ND80(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/0.75KW/1500RPM/PM90S(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/1.1KW/1500RPM/BND90S/IE2(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/1.1KW/1500RPM/BPM80(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/1.1KW/1500RPM/FBKD80(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/1.1KW/1500RPM/ND80(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/1.5KW/1500RPM/BPM90S(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/1.5KW/1500RPM/KD90S(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/1.5KW/1500RPM/ND90S(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/1.5KW/1500RPM/PM90S(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/1.5KW/1500RPM/PM90S(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/18.5KW/1500RPM/BND180M(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/18.5KW/1500RPM/ND180M(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/18.5KW/1500RPM/SC180M(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/2.2KW/1500RPM/BND100L/IE2(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/2.2KW/1500RPM/ND90L(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/3.7KW/1500RPM/ND100L(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/7.5KW/1500RPM/BND132M/IE2(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 4Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/7.5KW/1500RPM/ND132S(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/0.37KW/1000RPM/BGD71/IE2(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/0.37KW/1000RPM/KD80(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/0.37KW/1000RPM/PM71(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/0.55KW/1000RPM/BPM90L(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/0.75KW/1000RPM/BND80/IE2(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/0.75KW/1000RPM/ND80(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/1.1KW/1000RPM/BPM112M(S5-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/1.1KW/1000RPM/FBKD90S(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/11KW/1000RPM/ND160L(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/1.1KW/1000RPM/PM-RC90L(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/1.5KW/1000RPM/CPM90L(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/1.5KW/1000RPM/ND90L(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/2.2KW/1000RPM/ND100L(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/22KW/1000RPM/SC200L(S4-40%-300-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/2.2KW/1000RPM/VKD100L(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/37KW/1000RPM/KD250M(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/3.7KW/1000RPM/ND112M(S4-60%-300-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/3.7KW/1000RPM/ND132S(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/5.5KW/1000RPM/BPM160M(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/5.5KW/1000RPM/ND132M(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/5.5KW/1000RPM/ND132S(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/55KW/1000RPM/ND280M(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/55KW/1000RPM/SC280M(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/7.5KW/1000RPM/ND132M(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/7.5KW/1000RPM/ND160M(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 6Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/9.3KW/1000RPM/ND160M(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/0.37KW/750RPM/BPM71(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/0.37KW/750RPM/BPM80(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/0.37KW/750RPM/CPM71(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/3.7KW/570RPM/160M/Cooling Tower(New India)/0.37KW/750RPM/PM90S(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Crane Duty - Flameproof
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Crane Duty - Flameproof/0.18KW/1500RPM/LE63(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Crane Duty - Flameproof/1.1KW/1500RPM/LE90S(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/102KW/1000RPM/KS315SA(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/10KW/1000RPM/KS160L2(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/134KW/1000RPM/KS315MB(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/145KW/1000RPM/KS355S(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/15KW/1000RPM/KS180L2(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/2.2KW/1000RPM/ND100L(S4-60%-300-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/23KW/1000RPM/KS200L2(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/25KW/1000RPM/KS225SA(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/28.5KW/1000RPM/KS225SB(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/2KW/1000RPM/KS112M(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/30KW/1000RPM/KS225MA1(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/30KW/1000RPM/KS225MA2(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/36KW/1000RPM/KS225MB(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/3KW/1000RPM/KS132MA(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/44KW/1000RPM/KS250S(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/50.2KW/1000RPM/KS250M(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/5.1KW/1000RPM/KS132MC(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/7.5KW/1000RPM/KS180L2(S4-60%-300SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/76KW/1000RPM/KS280M2(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/7KW/1000RPM/KS160M2(S3-40%-6-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - Marathon/9.5KW/1000RPM/KS180L1(S4-60%-300-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - NDW/DW/ID - 4Pole
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - NDW/DW/ID - 4Pole/3KW/1500RPM/ID112M(S4-40%-150-DSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - NDW/DW/ID - 6Pole
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - NDW/DW/ID - 6Pole/13.2KW/1000RPM/NDW180L(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - NDW/DW/ID - 6Pole/17.6KW/1000RPM/NDW200L(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - NDW/DW/ID - 6Pole/1.8KW/1000RPM/NDW112M(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - NDW/DW/ID - 6Pole/24.6KW/1000RPM/NDW225S(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - NDW/DW/ID - 6Pole/2.6KW/1000RPM/DW132S(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - NDW/DW/ID - 6Pole/30.5KW/1000RPM/NDW225M(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - NDW/DW/ID - 6Pole/3KW/1000RPM/DW132S(S4-25%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - NDW/DW/ID - 6Pole/42KW/1000RPM/NDW250M(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - NDW/DW/ID - 6Pole/4.5KW/1000RPM/DW132M(S4-40%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - NDW/DW/ID - 6Pole/7.5KW/1000RPM/NDW160M(S4-25%-150-SSE)
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - NDW/DW/ID - 8Pole
+AC Motors/Crane Duty Motors/Crane Duty - 8Pole/Slipring Crane Duty - NDW/DW/ID - 8Pole/17KW/750RPM/ID225M(S4-40%-150-SSE)
+AC Motors/Cut Section Motors
+AC Motors/Cut Section Motors/Crane Duty - 8Pole/1.1KW/750RPM/FBPM100L(Cut Section)DSE
+AC Motors/Cut Section Motors/Crane Duty - 8Pole/2.2KW/1500RPM/PM100L/Dummy
+AC Motors/Cut Section Motors/Crane Duty - 8Pole/3.7KW/1500RPM/PM112M(Cut Section)
+AC Motors/Cut Section Motors/Dummy Motors
+AC Motors/Dual Speed Motors
+AC Motors/Dual Speed Motors/Dummy Motors/0.22KW/1000RM:0.37KW/1500RPM/PM80
+AC Motors/Dual Speed Motors/Dummy Motors/0.37KW/1500RPM/:0.37KW/3000RPM/PM80
+AC Motors/Dual Speed Motors/Dummy Motors/0.37KW/750RPM:0.75KW/1500RPM/90S(Hindustan)
+AC Motors/Face Mounting Motors
+AC Motors/Face Mounting Motors/Dummy Motors/0.75KW/3000RPM/CND80/IE2
+AC Motors/Flameproof Motors
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (2Pole)
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (2Pole)/0.25KW/3000RPM/LE63
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (2Pole)/0.37KW/3000RPM/E80/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (2Pole)/0.37KW/3000RPM/LE71
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (2Pole)/0.75KW/3000RPM/BLE80
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (2Pole)/0.75KW/3000RPM/E80/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (2Pole)/1.1KW/3000RPM/BLE90L
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (2Pole)/1.1KW/3000RPM/E90L/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (2Pole)/15KW/3000RPM/LE160
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (2Pole)/18.5KW/3000RPM/LE160
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (2Pole)/2.2KW/3000RPM/E90L/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (2Pole)/3.7KW/3000RPM/E100L/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (2Pole)/3.7KW/3000RPM/LE100(SPM)
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (2Pole)/5.5KW/3000RPM/E132/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (2Pole)/7.5KW/3000RPM/LE132
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/0.18KW/1500RPM/LE63
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/0.37KW/1500RPM/E80/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/0.55KW/1500RPM/B56/FLP/GF6442
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/0.75KW/1500RPM/BE80L/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/0.75KW/1500RPM/E80/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/1.1KW/1500RPM/BE90L/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/11KW/1500RPM/E160L/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/1.1KW/1500RPM/E90L/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/1.5KW/1500RPM/BE90L/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/15KW/1500RPM/E160L/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/1.5KW/1500RPM/E90L/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/1.5KW/1500RPM/LE90L
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/18.5KW/1500RPM/E180L/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/2.2KW/1500RPM/BE100L/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/2.2KW/1500RPM/E100L/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/22KW/1500RPM/LE180
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/3.7KW/1500RPM/BE112/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/3.7KW/1500RPM/E112M/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/37KW/1500RPM/LE225M
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (4Pole)/5.5KW/1500RPM/E132M/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (6Pole)
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (6Pole)/0.75KW/1000RPM/LE90
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (6Pole)/3.7KW/1000RPM/E132M/IE2
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (8Pole)
+AC Motors/Flameproof Motors/Dummy Motors/Flameproof Motors (8Pole)/7.5KW/750RPM/BLE160
+AC Motors/Flange Mounting AC Motors
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (2Pole)
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (2Pole)/0.18KW/3000RPM/BGD63/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (2Pole)/0.18KW/3000RPM/BPM63
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (2Pole)/0.25KW/3000RPM/BGD63/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (2Pole)/0.37KW/3000RPM/BND71/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (2Pole)/0.55KW/3000RPM/BGD71/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (2Pole)/0.75KW/3000RPM/BND80/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (2Pole)/1.1KW/3000RPM/BND80/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (2Pole)/1.5KW/3000RPM/BND90S/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (2Pole)/18.5KW/3000RPM/BPM-BRC160L
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (2Pole)/2.2KW/3000RPM/BND90L/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (2Pole)/5.5KW/3000RPM/BND112M/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (2Pole)/5.5KW/3000RPM/BND132S/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (2Pole)/7.5KW/3000RPM/BND132S/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (2Pole)/9.3KW/3000RPM/BND132M/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (4Pole)
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (4Pole)/0.37KW/1500RPM/BGD71/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (4Pole)/0.55KW/1500RPM/BND80
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (4Pole)/0.55KW/1500RPM/BND80/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (4Pole)/0.75KW/1500RPM/BND80/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (4Pole)/11KW/1500RPM/BND160M/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (4Pole)/15KW/1500RPM/BND160L/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (4Pole)/1.5KW/1500RPM/BND90L/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (4Pole)/1.5KW/1500RPM/BPM-BRC100L
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (4Pole)/1.5KW/1500RPM/BPM-BRC100L/VFD
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (4Pole)/1.5KW/1500RPM/BPM-BRC90L
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (4Pole)/18.5KW/1500RPM/BND180M/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (4Pole)/18.5KW/1500RPM/BND180M/IE2/30KW/1500RPM/200L/B5/IE2/1LE75012AB535FA4(Siemens)
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (4Pole)/5.5KW/1500RPM/BND132S/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (4Pole)/7.5KW/1500RPM/BND132M/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (6Pole)
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (6Pole)/0.75KW/1000RPM/BND90S
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (6Pole)/0.75KW/1000RPM/BPM90L(DSE)
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (6Pole)/0.75KW/1000RPM/BPM90S
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (6Pole)/1.5KW/1000RPM/BND100L/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (6Pole)/2.2KW/1000RPM/BND112M/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (6Pole)/2.2KW/1000RPM/BND132M/IE2/VFD
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (6Pole)/30KW/1000RPM/BND225M
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (6Pole)/5.5KW/1000RPM/BND132M/IE2
+AC Motors/Flange Mounting AC Motors/Dummy Motors/Flange Mounting AC Motors (6Pole)/7.5KW/1000RPM/BND160M/IE2
+AC Motors/Foot Cum Flange Motors (B35)
+AC Motors/Foot Cum Flange Motors (B35)/Dummy Motors/0.37KW/1500RPM/FBNG71/IE2
+AC Motors/Foot Cum Flange Motors (B35)/Dummy Motors/0.75KW/1500RPM/FBGD80/IE2
+AC Motors/Foot Cum Flange Motors (B35)/Dummy Motors/110KW/1500RPM/FBND315S/IE2
+AC Motors/Foot Cum Flange Motors (B35)/Dummy Motors/11KW/1500RPM/FBND160M/IE2
+AC Motors/Foot Cum Flange Motors (B35)/Dummy Motors/1.5KW/1500RPM/FBND90L/IE2
+AC Motors/Foot Cum Flange Motors (B35)/Dummy Motors/45KW/1000RPM/FBND280S/IE2/VFD
+AC Motors/Foot Cum Flange Motors (B35)/Dummy Motors/90KW/1500RPM/FBND280M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/0.37KW/3000RPM/MH71(Havells)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/0.37KW/3000RPM/ND71/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/0.55KW/3000RPM/PM71
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/0.75KW/3000RPM/ND80/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/11KW/3000RPM/ND160M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/1.1KW/3000RPM/ND80/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/1.1KW/3000RPM/PM-RC80
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/125KW/3000RPM/ND315M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/15KW/3000RPM/ND160M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/1.5KW/3000RPM/ND90S/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/160KW/3000RPM/ND315LX/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/18.5KW/3000RPM/ND160L/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/22KW/3000RPM/ND180M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/2.2KW/3000RPM/ND90L/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/2.2KW/3000RPM/ND90L/IE2/30KW/3000RPM/200L/IE2/1LE75012AA435AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/30KW/3000RPM/ND200L/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/30KW/3000RPM/ND200L/IE2/45KW/3000RPM/225M/IE2/1LE75012BA235AA4(Siemsns)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/45KW/3000RPM/ND225M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/45KW/3000RPM/ND225M/IE2/55KW/3000RPM/250M/IE2/1LE75012CA235AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/5.5KW/3000RPM/ND112M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/5.5KW/3000RPM/ND132S/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/55KW/3000RPM/ND250MX/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/75KW/3000RPM/ND280S/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/90KW/3000RPM/ND280M
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/90KW/3000RPM/ND280M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/9.3KW/3000RPM/ND132M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (2Pole)/93KW/3000RPM/SC280M
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/0.18KW/1500RPM/GD63/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/0.37KW/1500RPM/ND71/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/0.55KW/1500RPM/ND80
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/0.55KW/1500RPM/ND80/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/0.55KW/1500RPM/PM-RC80
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/0.75KW/1500RPM/ND80/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/0.75KW/1500RPM/ND80/IE2/110KW/1500RPM/315S/IE2/1LE75013AB035AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/110KW/1500RPM/ND315S/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/11KW/1500RPM/ND160M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/1.1KW/1500RPM/ND90S/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/1.1KW/1800RPM/ND90S/440V-60Hz
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/132KW/1500RPM/ND315M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/150KW/1500RPM/SC315L
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/150KW/1500RPM/SC315L/15KW/1500RPM/160L/IE2/ILE75011DB435AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/15KW/1500RPM/ND160L/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/1.5KW/1500RPM/ND90L/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/1.5KW/1500RPM/PM90L
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/180KW/1500RPM/RC315L/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/18.5KW/1500RPM/MH180M(Havells)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/18.5KW/1500RPM/ND180M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/200KW/1500RPM/ND315LX/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/200KW/1500RPM/ND315LX/IE2/22KW/1500RPM/180L/IE2/1LE75011EB435AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/200KW/1500RPM/ND315LX/IE2/2.2KW/1500RPM/ND100L/DC Brake-32NM
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/2.2KW/1500RPM/ND100L/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/2.2KW/1500RPM/ND112M
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/22KW/1500RPM/ND180L/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/22KW/1500RPM/ND180L/IE2/30KW/1500RPM/200L/IE2/1LE75012AB535AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/315KW/1500RPM/ND355LX/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/315KW/1500RPM/ND355LX/IE2/37KW/1500RPM/225S/IE2/1LE75012BB035AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/3.7KW/1500RPM/ND112M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/37KW/1500RPM/ND225S/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/45KW/1500RPM/ND225M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/45KW/1500RPM/ND225M/IE2/55KW/1500RPM/250M/IE2/1LE75012CB235AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/5.5KW/1500RPM/ND132S/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/55KW/1500RPM/ND250MX/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/55KW/1500RPM/ND250MX/IE2/75KW/1500RPM/280S/IE2/1LE75012DB035AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/7.5KW/1500RPM/ND132M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/75KW/1500RPM/ND280S/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/75KW/1500RPM/ND280S/IE2/90KW/1500RPM/280M/IE2/1LE75012DB235AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/90KW/1500RPM/ND280M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/9.3KW/1500RPM/ND132M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (4Pole)/9.3KW/1500RPM/ND160M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/0.37KW/1000RPM/B56(3PH)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/0.37KW/1000RPM/GD80
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/0.37KW/1000RPM/MH80(Havells)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/0.37KW/1000RPM/ND80/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/0.75KW/1000RPM/ND90S/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/110KW/1000RPM/ND315M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/110KW/1000RPM/ND315M/IE2/11KW/1000RPM/160L/IE2/1LE75011DC435AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/11KW/1000RPM/ND160L/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/1.1KW/1000RPM/ND90L/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/1.1KW/1000RPM/PM-RC90L
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/1.5KW/1000RPM/ND100L/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/15KW/1000RPM/ND180L/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/15KW/1000RPM/ND180L/IE2/18.5KW/1000RPM/200L/IE2/1LE75012AC435AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/18.5KW/1000RPM/ND200L/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/200KW/1000RPM/ND355LX/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/200KW/1000RPM/ND355LX/IE2/22KW/1000RPM/200L/IE2/1LE75012AC535AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/2.2KW/1000RPM/ND112M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/22KW/1000RPM/ND200L/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/22KW/1000RPM/ND200L/IE2/30KW/1000RPM/225M/IE2/1LE75012BC235AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/30KW/1000RPM/ND225M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/30KW/1000RPM/ND225M/IE2/37KW/1000RPM/250M/IE2/1LE75012CC235AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/3.7KW/1000RPM/ND132S/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/37KW/1000RPM/ND250M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/37KW/1000RPM/RC250M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/45KW/1000RPM/ND280S
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/45KW/1000RPM/ND280S/IE2/VFD
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/45KW/1000RPM/ND280S/IE2/VFD/45KW/1000RPM/ND280S/IE2/VFD+Aux Cooling
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/45KW/1000RPM/ND280S/IE2/VFD/45KW/1000RPM/ND280S/IE2/VFD/Encoder Mtg
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/45KW/1000RPM/SC280S
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/5.5KW/1000RPM/ND132M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/55KW/1000RPM/ND280M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/55KW/1000RPM/ND280M/IE2/7.5KW/1000RPM/160M/IE2/1LE75011DC235AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/7.5KW/1000RPM/ND160M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/75KW/1000RPM/ND315S/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/75KW/1000RPM/SC315S
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (6Pole)/90KW/1000RPM/ND315M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (8Pole)
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (8Pole)/0.37KW/750RPM/PM-RC90S
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (8Pole)/0.75KW/750RPM/ND100L/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (8Pole)/1.1KW/750RPM/ND100L/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (8Pole)/11KW/750RPM/ND180L
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (8Pole)/1.5KW/750RPM/ND112M/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (8Pole)/2.2KW/750RPM/ND132S/IE2
+AC Motors/Foot Mounting AC Motors (IE2/IE1)/Dummy Motors/Foot Mounting AC Motors (8Pole)/7.5KW/750RPM/ND160L/IE2
+AC Motors/Foot Mounting AC Motors (IE3)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (2 Pole)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (2 Pole)/7.5KW/750RPM/ND160L/IE2/110KW/3000RPM/315S/IE3/1LE75033AA035AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (2 Pole)/7.5KW/750RPM/ND160L/IE2/11KW/3000RPM/160M/IE3/1LE75031DA235AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (2 Pole)/7.5KW/750RPM/ND160L/IE2/15KW/3000RPM/160M/IE3/1LE75031DA335AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (2 Pole)/7.5KW/750RPM/ND160L/IE2/18.5KW/3000RPM/160L/IE3/1LE75031DA435AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (2 Pole)/7.5KW/750RPM/ND160L/IE2/22KW/3000RPM/180M/IE3/1LE75031EA235AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (2 Pole)/7.5KW/750RPM/ND160L/IE2/30KW/3000RPM/200L/IE3/1LE75032AA435AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (2 Pole)/7.5KW/750RPM/ND160L/IE2/37KW/3000RPM/200L/IE3/1LE75032AA535AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (2 Pole)/7.5KW/750RPM/ND160L/IE2/55KW/3000RPM/250M/IE3/1LE75032CA235AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (2 Pole)/7.5KW/750RPM/ND160L/IE2/7.5KW/3000RPM/132S/IE3/1LE75031CA135AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (2 Pole)/7.5KW/750RPM/ND160L/IE2/90KW/3000RPM/280M/IE3/1LE75032DA235AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (4 Pole)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (4 Pole)/7.5KW/750RPM/ND160L/IE2/110KW/1500RPM/315S/IE3/1LE75033AB035AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (4 Pole)/7.5KW/750RPM/ND160L/IE2/11KW/1500RPM/160M/IE3/1LE75031DB235AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (4 Pole)/7.5KW/750RPM/ND160L/IE2/15KW/1500RPM/160L/IE3/1LE75031DB435AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (4 Pole)/7.5KW/750RPM/ND160L/IE2/22KW/1500RPM/180L/IE3/1LE75031EB435AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (4 Pole)/7.5KW/750RPM/ND160L/IE2/30KW/1500RPM/200L/IE3/1LE75032AB535AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (4 Pole)/7.5KW/750RPM/ND160L/IE2/37KW/1500RPM/225S/IE3/1LE75032BB035AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (4 Pole)/45KW/1500RPM/ND225M/IE3
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (4 Pole)/45KW/1500RPM/ND225M/IE3/55KW/1500RPM/250M/IE3/1LE75032CB235AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (4 Pole)/55KW/1500RPM/ND250MX/IE3
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (4 Pole)/55KW/1500RPM/ND250MX/IE3/75KW/1500RPM/280S/IE3/1LE75032DB035AA4(Siemens)
+AC Motors/Foot Mounting AC Motors (IE3)/Dummy Motors/Foot Mounting AC Motors-IE3 (4 Pole)/55KW/1500RPM/ND250MX/IE3/90KW/1500RPM/280M/IE3/1LE75032DB235AA4(Siemens)
+AC Motors/Single Phase Motors
+AC Motors/Single Phase Motors/Dummy Motors/0.37KW/1500RPM/B56/FLP/GF6496
+AC Motors/Single Phase Motors/Dummy Motors/0.75KW/1500RPM/B56/FLP/GF6816
+AC Motors/Slipring SPDP Motors
+AC Motors/Slipring SPDP Motors/Dummy Motors/1500KW/750RPM/KMR560
+AC Motors/Slipring SPDP Motors/Dummy Motors/600KW/750RPM/KMR500
+AC Motors/Slipring SPDP Motors/Dummy Motors/750KW/750RPM/KMR500
+AC Motors/Slipring SPDP Motors/Dummy Motors/930KW/750RPM/KMR500L
+AC Motors/Slipring TEFC Motors
+AC Motors/Slipring TEFC Motors/Dummy Motors/110KW/1500RPM/SD315M
+AC Motors/Sq Cage SPDP Motors
+AC Motors/Sq Cage SPDP Motors/Dummy Motors/110KW/1500RPM/SA280S
+AC Motors/Sq Cage SPDP Motors/Dummy Motors/22KW/3000RPM/SA180M
+DC Drives
+DC Drives/DC Drive/1.5KW/144SqMM(Creative)
+DC Drives/DC Drive/7.5KW/3Ph(Creative)
+DC Motors
+DC Motors/0.75KW/1500RPM/80/SPDP/EL/Power+
+DC Motors/1000KW/750-1350RPM/Z560-3B/125%-Hrs/690V
+DC Motors/100KW/1000-2000RPM/ASBG225S/125%-2Hrs/DSE
+DC Motors/100KW/1000-2000RPM/ASBG225S/125%-2Hrs/S2
+DC Motors/100KW/1000-2000RPM/KLDC250SX/125%-2Hrs/440-310V
+DC Motors/100KW/1000-2200RPM/ASBG225M/125%-2Hrs
+DC Motors/100KW/2000RPM/ASBG180M/300%-Shear/400V/S5
+DC Motors/100KW/400RPM/ASBG280L/300%-Shear/400V/S5/ABY
+DC Motors/100KW/750RPM/ASBG225M/300%-Shear/400V/S5(KLDC225NL)
+DC Motors/105KW/500-1200RPM/ASBG280MX/300%-Shear/400V/S5
+DC Motors/110KW/1000-2000RPM/ASBG200M/160%-15Sec
+DC Motors/110KW/1000-2000RPM/ASBG200M/160%-15Sec/400V
+DC Motors/110KW/1000-2000RPM/ASBG225M/125%-2hrs/DSE
+DC Motors/110KW/600RPM/ASBG250MX/300%-Shear/400V/S5
+DC Motors/116KW/1050-2000RPM/ASBG200M/160%-15Sec/400V
+DC Motors/116KW/1050-2000RPM/ASBG200M/160%-15Sec//400V/S2
+DC Motors/116KW/1050-2000RPM/ASBG225M/125%-2Hrs/400V/S2
+DC Motors/116KW/1050-2000RPM/ASBG225M/125%-2Hrs/400V/S3
+DC Motors/116KW/1050RPM/ASBG200M/160%-15Sec/400V
+DC Motors/11KW/1500-2000RPM/ASBG132S/160%-15Sec
+DC Motors/120KW/1000-1800RPM/ASBG225M/125%-2Hrs
+DC Motors/120KW/1000-2000RPM/ASBG225M/125%-2Hrs
+DC Motors/120KW/1000-2000RPM/ASBG225M/125%-2Hrs/DSE
+DC Motors/120KW/1500RPM/ASBG200M/125%-2Hrs
+DC Motors/125KW/1000RPM/ASBG250S/125%-2Hrs
+DC Motors/125KW/250RPM/ASBG280LY/300%-Shear/400V/S5
+DC Motors/125KW/800RPM/ASBG250MX/125%-2Hrs/DSE
+DC Motors/135KW/700-1500RPM/ASBG250MX/300%-Shear/400V/S5
+DC Motors/1500KW/750-1200RPM/Z710-2B/125%-2Hrs/690V/DSE
+DC Motors/150KW/600-1000RPM/ASHQ355L/460V/IP55/IC0666
+DC Motors/15KW/1500-2000RPM/ASBG132M/160%-15Sec
+DC Motors/1.5KW/1500RPM/112/SPDP/ELMO
+DC Motors/1.5KW/1500RPM/ASHC112M/110-110V/B35/IP55/IC0041
+DC Motors/175KW/700-1500RPM/ASBG280L/300%-Shear/400V/S5
+DC Motors/175KW/700RPM/ASBG280L/300%-Shear/400V/S5
+DC Motors/175KW/900RPM/ASBG250L/300%-Shear/400V/S5
+DC Motors/180KW/250RPM/ASBG355LX/300%-Shear/400V/S5
+DC Motors/180KW/500RPM/ASBG280LX/300%-Shear/400V/S5
+DC Motors/180KW/600RPM/ASBG315M/300%-Shear/400V/S5
+DC Motors/220KW/500RPM/ASBG315L/300%-Shear/400V/S5
+DC Motors/220KW/750RPM/ASBG280L/300%-Shear/400V/S5
+DC Motors/220KW/750RPM/ASBG280MX/300%-Shear/S5/400V
+DC Motors/220KW/750RPM/ASBG280MX/Shear/400V/S5(KLDC280NM)
+DC Motors/2.2KW/1500RPM/112L/SPDP/EL/Power+
+DC Motors/2.2KW/1500RPM/132L/TE/EL/Power+
+DC Motors/2.2KW/1500RPM/ASHC132M/110-110V/B35/IP55/IC0041
+DC Motors/2.2KW/1500RPM/ASHC132S/110-110V/B35/IP55/IC410
+DC Motors/22KW/400-1000RPM/ASBG200M/125%-2hrs
+DC Motors/22KW/500-1000RPM/ASBG180M/125%-2Hrs/400V
+DC Motors/240KW/925RPM/ASBG280L/300%-Shear/S5/400V
+DC Motors/250KW/1000-2000RPM/ASBG280L/125%-2Hrs
+DC Motors/250KW/500-1200RPM/ASBG315LL/125%-2Hrs/ABY
+DC Motors/250KW/500-1200RPM/ASBG315LL/300%-Shear/400V/S5
+DC Motors/250KW/500-1500RPM/ASBG315LL/125%-2Hrs
+DC Motors/250KW/750-1500RPM/ASBG315L/125%-2Hrs/ABY
+DC Motors/250KW/750-1800RPM/ASBG280LX/125%-2Hrs
+DC Motors/250KW/750-1800RPM/ASBG280LX/125%-2hrs(KLDC280NG5)
+DC Motors/250KW/900-1800RPM/ASBG280M/125%-2hrs
+DC Motors/280KW/925RPM/ASBG280LX/300%-Shear/400V/S5/ABY
+DC Motors/300KW/1000-2000RPM/ASBG280LX/125%-2Hrs
+DC Motors/300KW/400-1000RPM/ASBG400L/125%-2hrs(KLDC400G)
+DC Motors/300KW/400-1200RPM/ASBG400L/125%-2hrs
+DC Motors/300KW/480RPM/ASBG315LL/300%-Shear/400V/S5
+DC Motors/300KW/500-1000RPM/ASBG355LX/125%-2hrs
+DC Motors/300KW/500-1500RPM/ASBG355LX/125%-2Hrs
+DC Motors/300KW/500-1500RPMASBG355LX/125%-2hrs(KLDC355NG)
+DC Motors/300KW/600-1200RPM/ASBG355L/125%-2hr
+DC Motors/300KW/750-1800RPM/ASBG280LY/125%-2hrs
+DC Motors/300KW/750-1800RPM/ASBG315L/125%-2Hrs
+DC Motors/300KW/750-1800RPM/ASBG315LX/125%-2Hrs
+DC Motors/30KW/1500-2000RPM/ASBG160A/160%-15Sec
+DC Motors/30KW/1800RPM/ASBG160S/125%-2Hrs
+DC Motors/30KW/1800RPM/ASBG160S/125%-2Hrs/S5
+DC Motors/30KW/3550RPM/KLDC132MX/160%-15Sec
+DC Motors/350KW/1000-2000RPM/ASBG315L/125%-2Hrs
+DC Motors/350KW/1100-1800RPM/ASBG315LX/125%-2hrs
+DC Motors/350KW/500-1500RPM/ASBG400L/125%-2hrs
+DC Motors/350KW/600-1800RPM/ASBG355LX/125%-2Hrs
+DC Motors/350KW/700-1800RPM/ASBG315LX/125%-2hr
+DC Motors/350KW/750-1800RPM/ASBG315LX/125%-2Hrs
+DC Motors/3.7KW/1500RPM/ASBG100M/160%-15Sec
+DC Motors/37KW/1500RPM/ASBG160M/125%-2Hrs
+DC Motors/3.7KW/1500RPM/ASHC132L/110-110V/B35/IP55-IC410
+DC Motors/400KW/500-1200-1500RPM(300KW)/MBL400L/125%-2hrs
+DC Motors/400KW/750-1800RPM/ASBG355L/125%-2Hrs
+DC Motors/420KW/600-1500RPM/ASBG400L/125%-2Hrs
+DC Motors/450KW/1000-1500RPM/ASBG355L/125%-2Hrs/ABY
+DC Motors/450KW/750-1500RPM/ASBG355LX/125%-2hr
+DC Motors/450KW/750-1500RPM/ASBG400M/125%-2hrs
+DC Motors/45KW/1000-1500RPM/ASBG180M/125%-2Hrs
+DC Motors/45KW/1000-2000RPM/ASBG180M/125%-2Hrs
+DC Motors/45KW/1000-2000RPM/ASBG180M/125%-2Hrs/S2
+DC Motors/45KW/1000-2000RPM/ASBG180M/300%-Shear/400V/S5
+DC Motors/45KW/1200RPM/ASBG180S/125%-2Hrs
+DC Motors/45KW/1250RPM/ASBG180S/125%-2hrs
+DC Motors/45KW/1250RPM/KLDC160LX/160%-15Sec(ILFC160M)
+DC Motors/45KW/2000RPM/ASBG160M/125%-2Hrs
+DC Motors/45KW/2000RPM/ASBG160M/125%-2hr+Shear/S5
+DC Motors/45KW/500-1500RPM/ASBG225S/125%-2Hrs
+DC Motors/5.5KW/1500-2000RPM/ASBG100L/160%-15Sec
+DC Motors/5.5KW/1500RPM/ASHC160S/110-110V/B35/IP55-IC0041
+DC Motors/60KW/1000RPM/ASBG200SX/125%-2Hrs/S4/DSE/ABY
+DC Motors/60KW/500-1500RPM/ASBG225M/125%-2Hrs
+DC Motors/72KW/1800RPM/ASBG180S/125%-2hr+Shear/400V/S5
+DC Motors/72KW/1800RPM/ASBG180S/125%-2hr+Shear/S5
+DC Motors/750KW/600-1200-1500RPM/MBL500L/125%-2Hrs/DSE
+DC Motors/750KW/750-1500RPM/MBL500M/125%-2Hrs/Class-H
+DC Motors/80KW/1000-2000RPM/ASBG200M/125%-2hrs/400V
+DC Motors/80KW/1000-2200RPM/ASBG200M/125%-2hrs
+DC Motors/80KW/2000RPM/ASBG180S/300%-Shear/400V/S5
+DC Motors/80KW/2200RPM/ASBG180S/125%-2Hrs
+DC Motors/88KW/1000-2000RPM/ASBG200M/125%-2Hrs
+DC Motors/90KW/1000-1800RPM/ASBG225S/125%-2Hrs
+DC Motors/92KW/1050-2000RPM/ASBG200M/125%-2Hrs/400V
+DC Motors/Stock in Hand
+Gear Boxes
+Gear Boxes/Adapters (MMR)
+Gear Boxes/Adapters (MMR)/Dummy Motors/0.37KW/20RPM/AMB75L(MMR)
+Gear Boxes/Adapters (MMR)/Dummy Motors/0.37KW/30RPM/AMB50L(MMR)
+Gear Boxes/Adapters (MMR)/Dummy Motors/0.37KW/40RPM/23K-71M/4(MMR)
+Gear Boxes/Adapters (MMR)/Dummy Motors/11KW/10RPM/SU310/Planetary(MMR)
+Gear Boxes/Adapters (MMR)/Dummy Motors/1.5KW/150RPM/AMD10S(MMR)
+Gear Boxes/Adapters (MMR)/Dummy Motors/1.5KW/15RPM/AMF100S(MMR)
+Gear Boxes/Adapters (MMR)/Dummy Motors/3.7KW/19RPM/73KH(MMR)
+Gear Boxes/Adapters (MMR)/Dummy Motors/3.7KW/350RPM/51KH(MMR)
+Gear Boxes/INLINE GEAR BOXES
+Gear Boxes/INLINE GEAR BOXES/Dummy Motors/0.75KW/33RPM/ACC45L
+Gear Boxes/INLINE GEAR BOXES/Dummy Motors/0.75KW/8RPM/ACE200L
+Gear Boxes/INLINE GEAR BOXES/Dummy Motors/1.5KW/15RPM/ACE100L
+Gear Boxes/2.25NU/30:1
+Gear Boxes/3NU-U/70:1
+Gear Boxes/7"SNU/60:1
+Gear Boxes/7SNU/40:1
+Gear Boxes/8NU/60:1
+Gear Boxes/ALNU75-112B5/15:1
+Gear Motors
+Gear Motors/0.12KW/25RPM/MGH90-63-4
+Gear Motors/0.18KW/84RPM/MGH90-63
+Gear Motors/0.37KW/84RPM/MGH90-71-4
+Gear Motors/1.5KW/201RPM/32P-D90L4/PBL
+Miscelaneous
+Miscelaneous/Exploder/200Shots/200CT
+Miscelaneous/FMS License
+Miscelaneous/Kharej Siren
+Miscelaneous/Surge Arrestors 9KV/5KA
+Non-Moving Stock
+Non-Moving Stock/Liquid Level Controller/Gelco/LLC2
+Non-Moving Stock/Spare/Brush Holder Assembly/Standard Pump
+Non-Moving Stock/Spare/Carbon Brush/Standard Pump- Motor
+Non-Moving Stock/Spare/Coupling/Part # 1004/Standard Pump
+Non-Moving Stock/Spare/Handle/Standard Pump
+Non-Moving Stock/Spare/Impeller/CF200-PP
+Non-Moving Stock/Spare/Impeller/CHP-ST-1.5 x 1-6/CI/Akay
+Non-Moving Stock/Spare/Mechanical Seal/Akay
+Non-Moving Stock/Spare/Mechanical Seal/FBK 322/AFEC
+Non-Moving Stock/Spare/Mechanical Seal/LBV 215/AFEC
+Non-Moving Stock/Spare/Mechanical Seal/LBV 40/AFEC
+Non-Moving Stock/Spare/Mechanical Seal/LBV 75/AFEC
+Non-Moving Stock/Spare/On-Off Switch/Standard Pump
+Non-Moving Stock/Spare/Silica Gel Breather
+Non-Moving Stock/Spare/Stage Assembly/Multi V 204/Salmson
+Pumps
+Pumps/BE Pumps
+Pumps/BE Pumps/AO2140KH
+Pumps/BE Pumps/AO3140KH
+Pumps/BE Pumps/M1026KK Pump
+Pumps/BE Pumps/Multi-H406SET
+Pumps/Gear Pumps
+Pumps/Gear Pumps/DEL Pumps
+Pumps/Gear Pumps/HG025
+Pumps/Gear Pumps/HG050
+Pumps/Gear Pumps/HG075
+Pumps/Gear Pumps/HG100
+Pumps/Gear Pumps/HG100/1.5KW/15RPM/ACE100L/HG100+0.75KE4/E80/IE2+L075
+Pumps/Gear Pumps/HG125
+Pumps/Gear Pumps/HG150
+Pumps/Gear Pumps/HG200
+Pumps/Gear Pumps/HG250
+Pumps/Gear Pumps/HG300
+Pumps/Gear Pumps/HG300/HGBX075
+Pumps/Gear Pumps/HG300/HGBX-125
+Pumps/Gear Pumps/HG300/HGBX-125/HGCX50/0.5HP(Monoblock)
+Pumps/Gear Pumps/HG300/HGBX-125/HGCX75/1HP(Monoblock)
+Pumps/Gear Pumps/HG300/HGSX025
+Pumps/Gear Pumps/HG300/HGSX040
+Pumps/Gear Pumps/HG300/HGSX050
+Pumps/Gear Pumps/HG300/HGSX075
+Pumps/Gear Pumps/HG300/HGSX125
+Pumps/Gear Pumps/HG300/HGSX150
+Pumps/Gear Pumps/HG300/HGSX200
+Pumps/Gear Pumps/HG300/HGSX250
+Pumps/Gear Pumps/HGX075
+Pumps/Gear Pumps/HGX100
+Pumps/Gear Pumps/HGX100/RDMS050M
+Pumps/Gear Pumps/HGX100/RDNXJ050L
+Pumps/Gear Pumps/HGX100/RDRX100L
+Pumps/Gear Pumps/HGX100/RDRX250L
+Pumps/Gear Pumps/HGX100/RDRX50S
+Pumps/Gear Pumps/WDI025
+Pumps/Gear Pumps/WDI040
+Pumps/Gear Pumps/WDI050
+Pumps/Gear Pumps/WDI100
+Pumps/Gear Pumps/WDI125
+Pumps/Gear Pumps/WDI125/FIG Internal Gear Pumps
+Pumps/Gear Pumps/WDI125/FIG Internal Gear Pumps/Fig Pump A015RD03
+Pumps/Gear Pumps/WDI125/FIG Internal Gear Pumps/Fig Pump AO30RD03
+Pumps/Gear Pumps/WDI125/FIG Internal Gear Pumps/Fig Pump AO4504D03
+Pumps/Gear Pumps/WDI125/FIG Internal Gear Pumps/Fig Pumps AO60RD03
+Pumps/KBL PUMPS
+Pumps/KBL PUMPS/CE Series
+Pumps/KBL PUMPS/CE Series/FIG Internal Gear Pumps/CE100/26(MOC01)
+Pumps/KBL PUMPS/CE Series/FIG Internal Gear Pumps/CE100/40(MOC20)137M3@90
+Pumps/KBL PUMPS/CE Series/FIG Internal Gear Pumps/CE125/26(MOC01)
+Pumps/KBL PUMPS/CE Series/FIG Internal Gear Pumps/CE40/26(MOC20)
+Pumps/KBL PUMPS/CE Series/FIG Internal Gear Pumps/CE50/16(MOC07)
+Pumps/KBL PUMPS/CE Series/FIG Internal Gear Pumps/CE65/16(MOC01)
+Pumps/KBL PUMPS/CE Series/FIG Internal Gear Pumps/CE65/16(MOC01)125m3/hr@25mtr
+Pumps/KBL PUMPS/CE Series/FIG Internal Gear Pumps/CE65/16(MOC01)/125m3/hr@30mtr
+Pumps/KBL PUMPS/CE Series/FIG Internal Gear Pumps/CE65/16(MOC01)/125m3/hr@30mtr/CE65/16(MOC01)+15KC2/CG+SRE150/140
+Pumps/KBL PUMPS/CE Series/FIG Internal Gear Pumps/CE80/16(MOC20)
+Pumps/KBL PUMPS/CE Series/FIG Internal Gear Pumps/CE80/40(MOC01)
+Pumps/KBL PUMPS/CE Series/FIG Internal Gear Pumps/CE80/40(MOC07)
+Pumps/KBL PUMPS/CE Series/FIG Internal Gear Pumps/CE80/40(MOC20)
+Pumps/KBL PUMPS/CE Series/FIG Internal Gear Pumps/CE80/40(MOC20)/CE80/40(MOC20)137M3@120M/Dia407
+Pumps/KBL PUMPS/CE Series/FIG Internal Gear Pumps/CE80/40(MOC20)/CE80/40(MOC20)171M3/hr@70mtr/Dia386
+Pumps/KBL PUMPS/CE Series/FIG Internal Gear Pumps/CE 80/40(MOC20)Imp=392mm
+Pumps/KBL PUMPS/CPHM Series
+Pumps/KBL PUMPS/CPHM Series/FIG Internal Gear Pumps/CPHM125/26(MOC02)2900RPM
+Pumps/KBL PUMPS/CPHM Series/FIG Internal Gear Pumps/CPHM125/45(MOC02)
+Pumps/KBL PUMPS/CPHM Series/FIG Internal Gear Pumps/CPHM150/32(MOC02)
+Pumps/KBL PUMPS/CPHM Series/FIG Internal Gear Pumps/CPHM25/26A(MOC02)
+Pumps/KBL PUMPS/CPHM Series/FIG Internal Gear Pumps/CPHM32/13(MOC72)
+Pumps/KBL PUMPS/CPHM Series/FIG Internal Gear Pumps/CPHM32/16(MOC72)
+Pumps/KBL PUMPS/CPHM Series/FIG Internal Gear Pumps/CPHM-32/26(MOC02)
+Pumps/KBL PUMPS/CPHM Series/FIG Internal Gear Pumps/CPHM40/13(MOC72)
+Pumps/KBL PUMPS/CPHM Series/FIG Internal Gear Pumps/CPHM65/26(MOC01)
+Pumps/KBL PUMPS/CPHM Series/FIG Internal Gear Pumps/CPHM65/26(MOC02)
+Pumps/KBL PUMPS/CPHM Series/FIG Internal Gear Pumps/CPHM80/32(MOC02)
+Pumps/KBL PUMPS/CPHM Series/FIG Internal Gear Pumps/CPHM80/32(MOC02)/CPHM80/32(MOC02)137M3@120Mtr(Dia305)
+Pumps/KBL PUMPS/DB Series
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB100/20(MOC86)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB100/26(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB100/32(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB100/32(MOC86)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB100/40(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB125/26(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB125/26(MOC86)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB125/32(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB125/32(MOC86)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB125/40(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB150/32(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB150/40(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB32/13(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB32/16(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB32/20(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB32/20(MOC86)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB32/26(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB32/26(MOC86)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB40/13(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB40/16(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB40/20(MOC56)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB40/20(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB40/26(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB50/13(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB50/16(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB50/20(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB50/26(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB50/26(MOC86)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB65/13(MOC56)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB65/13(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB65/13(MOC86)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB65/20(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB65/20(MOC86)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB65/26(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB65/26(MOC86)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB65/32(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB80/16(MOC56)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB80/16(MOC83)/180m3/hr@32mtr
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB80/16(MOC86)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB80/20(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB80/20(MOC86)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB80/26(MOC83)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB80/26(MOC86)
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB80/26(MOC86)/DB80/26(MOC86)+MS+75KC2/280S/SI/IE3+SRE225/180
+Pumps/KBL PUMPS/DB Series/FIG Internal Gear Pumps/DB80/32(MOC-83)
+Pumps/KBL PUMPS/DSM Series
+Pumps/KBL PUMPS/DSM Series/FIG Internal Gear Pumps/DSM100/36(MOC01)
+Pumps/KBL PUMPS/DSM Series/FIG Internal Gear Pumps/DSM100/36(MOC20)+Mech Seal
+Pumps/KBL PUMPS/DSM Series/FIG Internal Gear Pumps/DSM125/40(MOC01)
+Pumps/KBL PUMPS/DSM Series/FIG Internal Gear Pumps/DSM125/40(MOC20)
+Pumps/KBL PUMPS/DSM Series/FIG Internal Gear Pumps/DSM50/28M(MOC01)
+Pumps/KBL PUMPS/DSM Series/FIG Internal Gear Pumps/DSM65/32A(MOC01)
+Pumps/KBL PUMPS/DSM Series/FIG Internal Gear Pumps/DSM80/36(MOC01)
+Pumps/KBL PUMPS/DSM Series/ENGINE PUMP SETS
+Pumps/KBL PUMPS/DSM Series/ENGINE PUMP SETS/DSM80/36(MOC01)/DB150/32(MOC83)+52HP/1500RPM/4R1040/12V/240@30
+Pumps/KBL PUMPS/DSM Series/ENGINE PUMP SETS/DSM80/36(MOC01)/GK80/40B(MOC20)+MS+94HP/2150RPM/4R1040T/12V/171@80
+Pumps/KBL PUMPS/ETERNA Series
+Pumps/KBL PUMPS/ETERNA Series/ENGINE PUMP SETS/ETERNA/1000SW/1.1KW/1Ph
+Pumps/KBL PUMPS/ETERNA Series/ENGINE PUMP SETS/ETERNA/1300BW/1.3KW/1Ph
+Pumps/KBL PUMPS/ETERNA Series/ENGINE PUMP SETS/ETERNA/1500CW/1.5KW/3Ph
+Pumps/KBL PUMPS/ETERNA Series/ENGINE PUMP SETS/ETERNA/1800BW/1.8KW/1Ph
+Pumps/KBL PUMPS/ETERNA Series/ENGINE PUMP SETS/ETERNA/2200CW/2.2KW/3Ph
+Pumps/KBL PUMPS/ETERNA Series/ENGINE PUMP SETS/ETERNA/3700CW/3.7KW/3Ph
+Pumps/KBL PUMPS/ETERNA Series/ENGINE PUMP SETS/ETERNA/750CW/0.75KW/3Ph
+Pumps/KBL PUMPS/ETERNA Series/ENGINE PUMP SETS/ETERNA/750CW/0.75KW/3Ph/ETERNA/KPP800/0.75KW/1Ph/Swimming Pool Pump
+Pumps/KBL PUMPS/GMC Series
+Pumps/KBL PUMPS/GMC Series/ENGINE PUMP SETS/GMC-112/0.75KW/3 Ph/CII-MS
+Pumps/KBL PUMPS/GMC Series/ENGINE PUMP SETS/GMC-112/0.75KW/3 Ph/CII-MS/GMC/116/0.75KW/3Ph/Nory-MS(50X40MM)
+Pumps/KBL PUMPS/GMC Series/ENGINE PUMP SETS/GMC-112/0.75KW/3 Ph/CII-MS/GMC/134/0.75KW/3Ph/NORY-MS(25X25MM)
+Pumps/KBL PUMPS/GMC Series/ENGINE PUMP SETS/GMC/1.514/1.1KW/3Ph/CII-MS
+Pumps/KBL PUMPS/GMC Series/ENGINE PUMP SETS/GMC/1.522/1.1KW/3Ph/CII-MS
+Pumps/KBL PUMPS/GMC Series/ENGINE PUMP SETS/GMC-1.525/1.1KW/1Ph/CII-MS
+Pumps/KBL PUMPS/GMC Series/ENGINE PUMP SETS/GMC/1.525/1.1KW/3Ph/CII-MS
+Pumps/KBL PUMPS/GMC Series/ENGINE PUMP SETS/GMC/1.540/1.1KW/3Ph/Nory-MS
+Pumps/KBL PUMPS/Jalraj Series
+Pumps/KBL PUMPS/Jalraj Series/ENGINE PUMP SETS/Jalraj-I-Ultra/0.75KW/1Ph
+Pumps/KBL PUMPS/Jalraj Series/ENGINE PUMP SETS/MINI/Jalraj/0.37KW/1Ph
+Pumps/KBL PUMPS/KCIL Series
+Pumps/KBL PUMPS/KCIL Series/ENGINE PUMP SETS/KCIL10-10/4KW/3Ph
+Pumps/KBL PUMPS/KCIL Series/ENGINE PUMP SETS/KCIL10-12/4KW/3ph
+Pumps/KBL PUMPS/KCIL Series/ENGINE PUMP SETS/KCIL10-14/5.5KW/3PH
+Pumps/KBL PUMPS/KCIL Series/ENGINE PUMP SETS/KCIL10-18/7.5KW/3Ph
+Pumps/KBL PUMPS/KDI Series
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KCIL10-18/7.5KW/3Ph/KDI1030/7.5KW/3Ph/CII-MS-SSS-IP55
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI1040+/7.5KW/3PH/CII-MS-SS
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI1050+/7.5KW/3Ph/CII-MS-SS
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI1348+/9.3KW/3Ph/CII-MS-SS
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI1348+/9.3KW/3Ph/CII-MS-SS/KDI1348/9.3KW/3Ph/GMI-MS-SS-IP55
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI1537+/11KW/3PH/CII-MS-SS
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI1555/11KW/3Ph/CII-MS-SSS-FCL
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI216+/1.5KW/3Ph/CII-MS-SS
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI225++/1.5KW/3Ph/CII-MS-SS
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI235+/1.5KW/3Ph/CII-MS-SS
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI235+/1.5KW/3Ph/CII-MS-SS/KDI318+/2.2KW/3Ph/CII-MS-SS (80x65)
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI325+/2.2KW/3Ph/CII-MS-SS
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI335++2.2KW/3Ph/CII-MS-IP55
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI515/3.7KW/3PH/CII-MS-SS
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI520/3.7KW/3PH/CII-MS-SS
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI527/3.7KW/3Ph/CII-MS-SSS-IP55
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI538/3.7KW/3Ph/CII-MS-SSS-IP55
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI550/3.7KW/3Ph/CII-MS-SS
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI822++/5.5KW/3PH/CII-MS-SS
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI830+/5.5KW/3PH/CII-MS-SS
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI837+/5.5KW/3PH/CII-MS-SS
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI844+/5.5KW/3Ph/CII-MS-SS
+Pumps/KBL PUMPS/KDI Series/ENGINE PUMP SETS/KDI852+/5.5KW/3Ph/CII-MS-SS
+Pumps/KBL PUMPS/KDS Series
+Pumps/KBL PUMPS/KDS Series/ENGINE PUMP SETS/KDI852+/5.5KW/3Ph/CII-MS-SS/KDS822/5.5KW/3Ph/GMI-MS-SSS-IP55
+Pumps/KBL PUMPS/KDT Series
+Pumps/KBL PUMPS/KDT Series/ENGINE PUMP SETS/KDT568/3.7KW/3Ph/CII-GP
+Pumps/KBL PUMPS/KOS Series
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS1030/7.5kw/3Ph
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS1040/7.5KW/3PH/CII
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS1065/7.5KW/3Ph
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS134M/0.75KW/3Ph/NORYL
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS1.522/1.1KW/3Ph
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS1.525M/1.1KW/3Ph/CII
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS216/1.5KW/3Ph
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS225M/1.5KW/3Ph
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS235M/1.5KW/3Ph-CII
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS335/2.2KW/3Ph
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS520/3.7kw/3Ph
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS527/3.7KW/3Ph
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS538/3.7KW/3Ph
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS550/3.7KW/3Ph
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS822/5.5KW/3Ph
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS830/5.5KW/3Ph
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOS844/5.5KW/3Ph
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOSi0520/0.37KW/1Ph
+Pumps/KBL PUMPS/KOS Series/ENGINE PUMP SETS/KOSi135/0.75KW/1Ph
+Pumps/KBL PUMPS/KPD Series
+Pumps/KBL PUMPS/KPD Series/ENGINE PUMP SETS/KPD25/16-QF(MOC10)
+Pumps/KBL PUMPS/KSMB Series
+Pumps/KBL PUMPS/KSMB Series/ENGINE PUMP SETS/KSMB116/0.75KW/3Ph
+Pumps/KBL PUMPS/KSMB Series/ENGINE PUMP SETS/KSMB129/0.75KW/3Ph
+Pumps/KBL PUMPS/KSMB Series/ENGINE PUMP SETS/KSMB548/3.7KW/3Ph
+Pumps/KBL PUMPS/KSMB Series/ENGINE PUMP SETS/KSMB834/5.5KW/3Ph
+Pumps/KBL PUMPS/RKB Series
+Pumps/KBL PUMPS/RKB Series/ENGINE PUMP SETS/RKB100/23E-3stage(MOC01)
+Pumps/KBL PUMPS/RKB Series/ENGINE PUMP SETS/RKB100/23E-4Stage(MOC01)
+Pumps/KBL PUMPS/RKB Series/ENGINE PUMP SETS/RKB125/27-6Stage(MOC01)
+Pumps/KBL PUMPS/RKB Series/ENGINE PUMP SETS/RKB125/27-7Stage(MOC01)
+Pumps/KBL PUMPS/RKB Series/ENGINE PUMP SETS/RKB125/27(8Stage)(MOC-01)
+Pumps/KBL PUMPS/RKB Series/ENGINE PUMP SETS/RKB125/30-6Stage(MOC01)
+Pumps/KBL PUMPS/RKB Series/ENGINE PUMP SETS/RKB150/34-5Stage(MOC01)
+Pumps/KBL PUMPS/RKB Series/ENGINE PUMP SETS/RKB50/15L-7Stage(MOC01)
+Pumps/KBL PUMPS/RKB Series/ENGINE PUMP SETS/RKB65/19E-3Stage(MOC01)
+Pumps/KBL PUMPS/RKB Series/ENGINE PUMP SETS/RKB65/19E-3Stg(MOC20)
+Pumps/KBL PUMPS/SP Series
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP0+1C2/Coupled/3Ph/CII-GP
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP05M/0.37KW/1Ph/CII-MS
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP05M/0.37KW/3Ph/CII-MS
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP0/BareShaft/CII-GP
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP0M/0.75KW/1Ph/CII-MS
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP0M/0.75KW/3Ph/CII-MS
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP1H+2C2/Coupled/3Ph/CII-GP
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP1HM/1.5KW/3Ph/CII-GP
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP2H+3C2/Coupled/3Ph/CII-GP
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP-2H/Bare Shaft/CII-GP
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP2HM/2.2KW/3Ph/CII-GP
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP3+7.5C2 Set /3 Ph/CII-GP
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP3A+5C2/Coupled/3Ph/CII-GP
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP3L+5C4/Coupled/3Ph/CII-GP
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP3LM/3.7KW/3Ph/CII-GP
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP4L+12.5C4/Coupled/3Ph/CII-GP
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP4LA+10C4/Coupled/CII-GP
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP6L+25C4Set/3Ph/CII-GP
+Pumps/KBL PUMPS/SP Series/ENGINE PUMP SETS/SP6LA+20C4 Set/3Ph/CII-GP
+Pumps/KBL PUMPS/UP Series
+Pumps/KBL PUMPS/UP Series/ENGINE PUMP SETS/UP100/29(MOC01)
+Pumps/KBL PUMPS/UP Series/ENGINE PUMP SETS/UP100/35(MOC01)
+Pumps/KBL PUMPS/UP Series/ENGINE PUMP SETS/UP100/38(MOC01)
+Pumps/KBL PUMPS/UP Series/ENGINE PUMP SETS/UP125/30A(MOC01)
+Pumps/KBL PUMPS/UP Series/ENGINE PUMP SETS/UP125/30B(MOC01)
+Pumps/KBL PUMPS/UP Series/ENGINE PUMP SETS/UP150/30(MOC01)
+Pumps/KBL PUMPS/UP Series/ENGINE PUMP SETS/UP150/38A(MOC01)
+Pumps/KBL PUMPS/UP Series/ENGINE PUMP SETS/UP150/38B(MOC01)
+Pumps/KBL PUMPS/UP Series/ENGINE PUMP SETS/UP150/45(MOC01)
+Pumps/KBL PUMPS/UP Series/ENGINE PUMP SETS/UP150/45(MOC20)
+Pumps/KBL PUMPS/UP Series/ENGINE PUMP SETS/UP-200/30 (MOC-01)
+Pumps/KBL PUMPS/UP Series/ENGINE PUMP SETS/UP250/30(MOC01)
+Pumps/KBL PUMPS/UP Series/ENGINE PUMP SETS/UP80/30(MOC01)
+Pumps/KBL PUMPS/UP Series/ENGINE PUMP SETS/UP80/38(MOC01)
+Pumps/KBL PUMPS/KV20/0.75KW/1Ph
+Pumps/KBL PUMPS/KV20/0.75KW/3Ph
+Pumps/KBL PUMPS/KV20/0.75KW/3Ph/KV-30/2.2KW (Vacuum Pump) 3 Ph
+Pumps/KBL PUMPS/NW10D
+Pumps/KBL PUMPS/NW10D/SHM50/32N(MOC01)
+Pumps/ALFA100CT
+Pumps/ALFA120CT/PP Pump
+Pumps/ALFA160CTR/PP Pump for 3HP
+Pumps/Arvana Make 0.37kw/DSK-0.5A
+Pumps/Arvana Make 0.75kw/DS-10A
+Pumps/Arvana Make 1.5kw/DSK-20A
+Pumps/CF200 PP Pump
+Pumps/CF200 SS Pump
+Pumps/CF25 PP Pump/0.18KW
+Pumps/Electronic Dosing Pump/ANT/ED01
+Pumps/Elite600A Pump
+Pumps/FBC322T Pump
+Pumps/FBC337 Pump
+Pumps/FBK322T Pump
+Pumps/FBK437T Pump
+Pumps/FS315T Pump
+Pumps/FSS400A Pump
+Pumps/FSS750A Pump
+Pumps/FSS750T Pump
+Pumps/FV40 Pump/prostain
+Pumps/LB-40A Pump
+Pumps/LBC75AT Pump
+Pumps/LBC75 T Pump
+Pumps/LBK315 A Pump
+Pumps/LBK315 T Pump
+Pumps/LBV315 T Pump
+Pumps/LBV75A Pump
+Pumps/LBV75AT Pump
+Pumps/LBV75T Pump
+Pumps/Metering Pump/GDP75
+Pumps/PIEG10 Pump
+Pumps/PIEG50 Pump
+Pumps/PILB080 Pump
+Pumps/PISB200L/SS316 Pump
+Pumps/PMP100 Pump
+Pumps/PMP15 Pump
+Pumps/PMP30 Pump
+Pumps/SP280 Pump
+Pumps/SP300 Pump
+Pumps/SPA1 Pump
+Pumps/SP-PP-39 Pump
+Pumps/SP-PVDF-39 Pump
+Pumps/SP-SS-39 Pump
+Pumps/SP-SS-47 Pump
+Pumps/Standard Pump/OL-100 VPPL-75
+Pumps/Standard Pump/OL-125 VPPF-15
+Pumps/Standard Pump/OL-75 VCP-PEO
+Pumps/Starson 4-T/C Pump
+Pumps/Tullu-Vijay Pumps
+Pumps/Wildon Pump M/1
+Pumps/Wildon Pump M/4
+Solar Items
+Solar Items/S-Electrical Cables and Accessories
+Solar Items/S-Electrical Cables and Accessories/NW10D/S-AC Cable Aluminium 3.5Cx150SQmm/Armoured
+Solar Items/S-Electrical Cables and Accessories/NW10D/S-AC Cable Copper 27Cx1.5sqmm/Armoured
+Solar Items/S-Electrical Cables and Accessories/NW10D/S-AC Cable Copper 4C x 35Sqmm
+Solar Items/S-Electrical Cables and Accessories/NW10D/S-AC Cable Copper 8Cx2.5Sqmm/Armoured Finolex
+Solar Items/S-Electrical Cables and Accessories/NW10D/S - AC Cable Cu. 4Cx16SQMM
+Solar Items/S-Electrical Cables and Accessories/NW10D/S-Cable Tray/Perforated/150x25x1.6mm
+Solar Items/S-Electrical Cables and Accessories/NW10D/S - Marking Ferrules 4sqmm
+Solar Items/S-Module Mounting Structures(MMS) & Accessories
+Solar Items/S-Module Mounting Structures(MMS) & Accessories/NW10D/S-L Clamp 80x40x10mm
+Solar Items/S-Folding Clamp
+SPARES
+SPARES/CI Couplings
+SPARES/CI Couplings/CI Coupling L075
+SPARES/CI Couplings/CI Coupling L 095
+SPARES/CI Couplings/CI Coupling L 099
+SPARES/CI Couplings/CI Coupling L 100
+SPARES/CI Couplings/CI Coupling L 110
+SPARES/CI Couplings/CI Coupling  L 150
+SPARES/CI Couplings/CI Coupling L 190
+SPARES/CI Couplings/CI Coupling L 225
+SPARES/CI Couplings/CI Coupling L 226
+SPARES/CI Couplings/CI Coupling L-276
+SPARES/CI Couplings/CI Coupling L 280
+SPARES/CI Couplings/CI Couplings L 295
+SPARES/CI Couplings/KR 226/140
+SPARES/CI Couplings/SRE 100-140
+SPARES/CI Couplings/SRE 110-140
+SPARES/CI Couplings/SRE 150-140
+SPARES/CI Couplings/SRE-190-140
+SPARES/CI Couplings/SRE 190-180
+SPARES/CI Couplings/SRE-225/140
+SPARES/CI Couplings/SRE 225-180
+SPARES/DC BRAKES
+SPARES/DC BRAKES/SRE 225-180/DC Brake/150NM/FDB23
+SPARES/DC BRAKES/SRE 225-180/DC Brake/15NM/80Frame/Modular Type/Mod-E-Tech
+SPARES/DC BRAKES/DC BRAKE/16NM
+SPARES/DC BRAKES/DC/BRAKE/240NM
+SPARES/DC BRAKES/DC/BRAKE/32NM
+SPARES/DC BRAKES/DC/BRAKE/32NM/DC Brake/40NM/K5/Modewith Stub & Fan Cover
+SPARES/DC BRAKES/DC/BRAKE/42NM
+SPARES/DC BRAKES/DC/BRAKE/42NM/DC Brake/80NM/FDB20
+SPARES/DC BRAKES/DC/BRAKE/42NM/DC Brake/85NM/K6HT
+SPARES/DC BRAKES/DC BRAKE/8NM
+SPARES/DE COVERS
+SPARES/DE COVERS/DE Cover E-80(CG)
+SPARES/DE COVERS/DE Cover E-90(CG)
+SPARES/DE COVERS/DE COVER GD-80
+SPARES/DE COVERS/DE COVER LE-100
+SPARES/DE COVERS/DE COVER LE-112
+SPARES/DE COVERS/DE COVER LE-132
+SPARES/DE COVERS/DE COVER LE-160
+SPARES/DE COVERS/DE COVER LE-63
+SPARES/DE COVERS/DE COVER LE-71
+SPARES/DE COVERS/DE COVER LE-80
+SPARES/DE COVERS/DE COVER LE-90
+SPARES/DE COVERS/DE COVER LE-90/DE Cover MA63 (BBL)
+SPARES/DE COVERS/DE COVER LE-90/DE COVER ND-100(CG)
+SPARES/DE COVERS/DE Cover ND-112
+SPARES/DE COVERS/DE Cover ND-112/DE COVER ND-132(CG)
+SPARES/DE COVERS/DE Cover ND-112/DE COVER  ND-160 (C.G.)
+SPARES/DE COVERS/DE COVER ND-180
+SPARES/DE COVERS/DE Cover/ND 200L
+SPARES/DE COVERS/DE Cover/ND 200L/DE Cover/ND-250 (CG)
+SPARES/DE COVERS/DE COVER PM-100
+SPARES/DE COVERS/DE COVER PM-100/DE Cover PM100(T Series)
+SPARES/DE COVERS/DE COVER PM-112
+SPARES/DE COVERS/DE COVER PM-132
+SPARES/DE COVERS/DE COVER PM-160
+SPARES/DE COVERS/DE COVER PM-63
+SPARES/DE COVERS/DE COVER PM-71
+SPARES/DE COVERS/DE COVER PM-80
+SPARES/DE COVERS/DE COVER PM-90
+SPARES/DE COVERS/DE COVER SC-180
+SPARES/DE COVERS/DE COVER SC-200
+SPARES/DE COVERS/DE COVER SC-200/DE COVER SC-225M
+SPARES/DE COVERS/DE COVER SC-250
+SPARES/DE COVERS/DE COVER SC-250/DE COVER SC-315M
+SPARES/FLANGES
+SPARES/FLANGES/DE COVER SC-250/C.G. MAKE FLANGES
+SPARES/FLANGES/DE COVER SC-250/BND100 Flange
+SPARES/FLANGES/DE COVER SC-250/BND132S Flange
+SPARES/FLANGES/DE COVER SC-250/BND160 Flange
+SPARES/FLANGES/DE COVER SC-250/BND180 Flanges
+SPARES/FLANGES/DE COVER SC-250/BND200 Flange
+SPARES/FLANGES/DE COVER SC-250/BND225 Flange
+SPARES/FLANGES/DE COVER SC-250/BND80 Flange
+SPARES/FLANGES/DE COVER SC-250/KEC MAKE FLANGES
+SPARES/FLANGES/DE COVER SC-250/BLE100 Flange
+SPARES/FLANGES/DE COVER SC-250/BPM100 Flange
+SPARES/FLANGES/DE COVER SC-250/BPM112 Flange
+SPARES/FLANGES/DE COVER SC-250/BPM63 Flange
+SPARES/FLANGES/DE COVER SC-250/CPM100 Flange
+SPARES/FLANGES/DE COVER SC-250/CPM112 Flange
+SPARES/FLANGES/DE COVER SC-250/CPM71 Flange
+SPARES/FLANGES/DE COVER SC-250/CPM80 Flanges
+SPARES/FLANGES/DE COVER SC-250/VSC225 Flange
+SPARES/FLANGES/BND250 Flange
+SPARES/FLANGES/BND250 Flange/BPM90 Flange(Havells)
+SPARES/180 Flange(Siemens)
+SPARES/BASE PLATE
+SPARES/Bearings/6205-Z/C3/FAG
+SPARES/Bearings/6206-ZZ/C3/FAG
+SPARES/Buzzer
+SPARES/Carbon Brush/20X16X32/M15E
+SPARES/Carbon Brush/25X10X32/M15E
+SPARES/Carbon Brush/32X(10X2)X40/EG224/KLDC225-250/KEC
+SPARES/Carbon Brush/32x(10x2)X48/EG367J
+SPARES/Carbon Brush/32x(10x2)X50mm/EG-224
+SPARES/Carbon Brush/32X(10x2)X50MM/EG-251-EG359MD
+SPARES/Carbon Brush/32x(12.5x2)X50mm/EG-224
+SPARES/Carbon Brush/32X(12.5x2)X50MM/EG-251-EG359MD
+SPARES/Carbon Brush/32x(16x2)X50/D374N
+SPARES/Carbon Brush/32X(8X2)X40/EG224/KLDC180-200-225/KEC
+SPARES/Carbon Brush/32x(8x2)X50/E101
+SPARES/Carbon Brush/32X(8X2)X50/EG236S
+SPARES/Carbon Brush/50x25x65/KCW560/M145E
+SPARES/DE Cover NG112
+SPARES/FC Unit/ASBG355(9.3KC2/132Frame)
+SPARES/FC Unit/KLDC 100
+SPARES/FC Unit/KLDC 112-132
+SPARES/Filter Box with Pads/ASBG225
+SPARES/Filter Pads/260X195X20mm
+SPARES/Filter Pads/310X190X20mm
+SPARES/H-07-04 FUSE/33KV/1A-PTFuse/PPTF33 Type/500mm/Phoenix
+SPARES/HG75/Spare Body
+SPARES/Mech Seal/CPHM150/32/Unit-9
+SPARES/Mech Seal/CPHM65/26/Unit-7
+SPARES/Mech Seal/DB Pump/Unit-25
+SPARES/Mech Seal/DB Pump/Unit-35
+SPARES/Mech Seal/KDS128
+SPARES/Mech Seal/M74N-50/C-VS-Bume5/Eagle Burgmann
+SPARES/Not to Use/Spare/Brush Holder/19.5x9.5/KS132
+SPARES/Slipring Unit/DW132/BR/90OD/40ID/80Length
+SPARES/Slipring Unit/KCW560
+SPARES/Slipring Unit/KS112/BR
+SPARES/Slipring Unit/KS112/GM
+SPARES/Slipring Unit/KS180/Br
+SPARES/Slipring Unit/KS200/Br
+SPARES/Slipring Unit/KS200/GM
+SPARES/Slipring Unit/KS225/Br
+SPARES/Slipring Unit/KS280/BR
+SPARES/Slipring Unit/KS315/BR
+SPARES/Slipring Unit/KS355/BR
+SPARES/Slipring Unit/NDW250/BR/165OD/87ID/115Length
+SPARES/Spare/112M/Body
+SPARES/Spare/3"Nu 15:1/Worm Shaft with Bearing
+SPARES/Spare/3"Nu/output Shaft with Bearing
+SPARES/SPARE/3NU//BODY
+SPARES/Spare/4"Snu-U 40:1/Body
+SPARES/Spare/AMD60S/casing/PBL
+SPARES/Spare/AO3110KH/Bush Bearing
+SPARES/Spare/AO3110KH/Impeller
+SPARES/Spare/AO3110KH/Shaft
+SPARES/Spare/B5 Flange/ASBG100
+SPARES/SPARE/BRACKET/AO 3140
+SPARES/SPARE/BRACKET/AO 3165
+SPARES/Spare/Bronze Impeller/DB125-26/264mm
+SPARES/Spare/Brush Holder
+SPARES/Spare/Brush Holder/19.5X9.5/KS132/KS160
+SPARES/Spare/Brush Holder/19x9/KS132MA
+SPARES/Spare/Brush Holder/20x16/NDW250
+SPARES/Spare/Brush Holder/25x16-3Cavity/ASBG180
+SPARES/Spare/Brush Holder/25x16/-3Cavity(LHS)/ASNG
+SPARES/Spare/Brush Holder/25x16-3Cavity(RHS)/ASBG160
+SPARES/Spare/Brush Holder/25x16-4Cavity/ASBG200
+SPARES/Spare/Brush Holder/25x20-5Cavity/ASBG280
+SPARES/Spare/Brush holder/32x12.5-2Cavity/KLDC16
+SPARES/Spare/Brush Holder/32X16-2Cavity/MBL400L
+SPARES/Spare/Brush Holder/32x(16x2)/Z560-710
+SPARES/Spare/Brush Holder/32x20-2cavity/MBL500M
+SPARES/Spare/Brush Holder/32x25-4Cavity/ASBG315
+SPARES/Spare/Brush Holder/32x25-5Cavity/ASBG315LX
+SPARES/Spare/Brush Holder/50X25/KCW560
+SPARES/Spare/CE125/26/Shaft-C40
+SPARES/Spare/CI Impeller/DB125-26/225mm
+SPARES/Spare/coupling/AO- 4175 KKTEH
+SPARES/Spare/CPHM25/26A/Bronze Impeller
+SPARES/Spare/CPHM32-13/Gland Packing
+SPARES/Spare/CPHM32-13/Gland Plate
+SPARES/Spare/CPHM32-13/Lantern Ring
+SPARES/Spare/CPHM32-13/Shaft Sleeve
+SPARES/Spare/CPHM Unit7/Gland/CI
+SPARES/Spare/CPHM Unit7/Gland Packing
+SPARES/Spare/CPHM Unit7/Lantern Ring
+SPARES/Spare/CPHM Unit7/Shaft Sleeve/SS
+SPARES/Spare/DB100/20/Bearing Housing/CI
+SPARES/Spare/DB100/20/Impeller/Br
+SPARES/Spare/DB100/20/Pump Shaft/C40
+SPARES/Spare/DB100/20/Shaft Sleeve/SS410
+SPARES/Spare/DB32/16/Shaft/C40
+SPARES/Spare/DB65-32/Gland Packing-Graphol
+SPARES/Spare/DBUnit 25/Gland/CI
+SPARES/Spare/DBUnit 25/Gland Packing
+SPARES/Spare/DBUnit25/Lantern Ring
+SPARES/Spare/DBUnit 35/Gland/CI
+SPARES/Spare/DBUnit 35/Gland Packing
+SPARES/Spare/DBUnit 35/Lantern Ring
+SPARES/Spare/DB Unit 35/Shaft Sleeve/SS410
+SPARES/Spare/DBUnit 45/Gland/CI
+SPARES/Spare/DBUnit 45/Gland Packing
+SPARES/Spare/Detachable Foot/GD80(1Set=2Nos)
+SPARES/Spare/DSM100/36/1st Impeller-BR
+SPARES/Spare/DSM100/36/2nd/Impeller-BR
+SPARES/Spare/Fan/80Frame/NGEF
+SPARES/SPARE/FAN COVER/MA 132
+SPARES/SPARE/FAN COVER/ND-132
+SPARES/Spare/Fan Cover/ND160
+SPARES/Spare/Fan Cover/ND225CG
+SPARES/SPARE/FAN COVER/ND250
+SPARES/SPARE/FAN COVER/PM-100L(T Series)
+SPARES/SPARE/FAN COVER/PM-112
+SPARES/SPARE/FAN COVER/PM-112(T Series)
+SPARES/SPARE/FAN COVER/PM132
+SPARES/SPARE/FAN COVER/PM132S(T Series)
+SPARES/Spare/Fan Cover/PM160 (T Series)
+SPARES/SPARE/FAN COVER/PM-71
+SPARES/SPARE/FAN COVER/PM-80
+SPARES/SPARE/FAN COVER/PM-80(T Series)
+SPARES/SPARE/FAN COVER/PM-90
+SPARES/SPARE/FAN COVER/SC-180
+SPARES/SPARE/FAN COVER/SC-200L
+SPARES/Spare/Fan/KD100/Marathon
+SPARES/Spare/Fan/KD132/Marathon
+SPARES/SPARE/FAN/ND-132S (C.G)
+SPARES/Spare/Fan/ND200
+SPARES/Spare/Fan/ND280
+SPARES/Spare/Fan/ND90
+SPARES/SPARE/FAN/PM100L
+SPARES/SPARE/FAN/PM-100L(T Series)
+SPARES/SPARE/FAN/PM-112
+SPARES/SPARE/FAN/PM-112(T Series)
+SPARES/SPARE/FAN/PM-132
+SPARES/SPARE/FAN/PM-132(T Series)
+SPARES/SPARE/FAN/PM160
+SPARES/Spare/Fan/PM160-CI
+SPARES/Spare/Fan/PM-71
+SPARES/Spare/Fan/PM-80
+SPARES/SPARE/FAN/PM-90
+SPARES/SPARE/FAN/PM-90(T Series)
+SPARES/Spare/FC Impeller+Guide/ASBG200/60HZ
+SPARES/Spare/Gland/KDS-318
+SPARES/Spare/Gland/KDS-837
+SPARES/Spare/Gland Packing Grapol/KDS-318
+SPARES/Spare/Gland Packing Grapol/KDS837
+SPARES/Spare/gland Packing Grapol/SP-2H
+SPARES/Spare/Gland/SP-0
+SPARES/Spare/Gland/SP.2H
+SPARES/Spare/GMI Impeller/DB 125-26
+SPARES/Spare/Grease Cups/SP-2H
+SPARES/Spare HG-50 Water Seal
+SPARES/SPARE/IMPELLER/201(BE)
+SPARES/Spare/impeller/AO1150
+SPARES/SPARE/IMPELLER/CF-100/P.P
+SPARES/SPARE/IMPELLER/CF-100/SS
+SPARES/Spare/Impeller/DB65-20 (Bronze)
+SPARES/SPARE/IMPELLER/DB 65-26(CI)
+SPARES/SPARE/IMPELLER (FOR AO 3155 KKTEH)
+SPARES/Spare/Impeller/KDS1040/GM
+SPARES/SPARE/IMPELLER/NW2-CI
+SPARES/SPARE/IMPELLER/ST-401(BE)
+SPARES/Spare/KPD65/26/Gland Packing
+SPARES/Spare/KPD65/26/Lantern Ring
+SPARES/Spare/KPDUnit7/Gland/CI
+SPARES/Spare/KPDUnit9/Gland/CI
+SPARES/Spare/KPDUnit9/Gland Packing
+SPARES/Spare/KPDUnit9/Lantern Ring
+SPARES/Spare/KPDUnit9/Shaft Sleeve/SS
+SPARES/Spare/Lantern Ring/KDS-837
+SPARES/Spare/Lantern Ring/SP-0
+SPARES/Spare/Lantern Rings/sp-2H
+SPARES/Spare/M.S.Washers/SP-2H
+SPARES/SPARE/NDE COVER/PM-100L
+SPARES/Spare/NDE Cover/PM132M
+SPARES/Spare/NDE Cover/PM160L
+SPARES/Spare/NDE Cover PM-71
+SPARES/Spare/NDE Cover PM-90
+SPARES/Spare/NG71/Foot(2Nos=1Set)
+SPARES/Spare/Packing Graphol/SP-0
+SPARES/Spare/Pakcing Graphol-DB 80/26
+SPARES/Spare/PM90/Body
+SPARES/SPARE/RUBBER DISC/AO-5130
+SPARES/Spares
+SPARES/Spares-12%
+SPARES/Spares-18%
+SPARES/Spares-28%
+SPARES/Spares/DE Cover/ND225
+SPARES/Spare/Shaft/AO1140 KH
+SPARES/Spare/Shaft/AO2140
+SPARES/SPARE/SHAFT/CF-100
+SPARES/Spares-Others
+SPARES/Spare/Terminal Box Cover/SC-225S
+SPARES/SPARE/TERMINAL BOX/KD-112
+SPARES/Spare Terminal Box PM160 (T Series)
+SPARES/Spare/UP100-38/Impeller/CI/full Dia
+SPARES/Spare/UP125/35/Shaft Sleeve/SS316
+SPARES/Spare/UP250/38/Lower Casing
+SPARES/Spare/UP250/38/Upper Casing
+SPARES/Spare/UP Module II/Gland/CI
+SPARES/Spare/UPModule II/Gland Packing
+SPARES/Spare/UPModule II/Lantern Ring
+SPARES/Terminal Box Entry for LE-132
+SPARES/Valve/Foot/150mm
+SPARES/Valve/Foot/50mm
+Starters DOL
+Starters DOL/DOL Starter/2.2kw
+Starters DOL/Starter/DOL/0.37KW
+Starters DOL/Starter/DOL/11KW
+Starters DOL/Starter/DOL/7.5KW
+Starters DOL/Starter/DOL/9.3KW
+Starters DOL/Starter/Star Delta/22KW
+Starters DOL/Starter/Star Delta/30KW
+SUBSTATION ITEMS
+SUBSTATION ITEMS/33KV Auto Recloser with PT
+SUBSTATION ITEMS/BREAKER TROLLEY
+SUBSTATION ITEMS/CABLE
+SUBSTATION ITEMS/CIRCUIT BREAKERS
+SUBSTATION ITEMS/CONTROL AND RELAY PANEL
+SUBSTATION ITEMS/FUSE
+SUBSTATION ITEMS/FUSE/Gas Cylinder
+SUBSTATION ITEMS/FUSE/Gas Leak Detector
+SUBSTATION ITEMS/FUSE/GI Earth Pipe-40mm Dia
+SUBSTATION ITEMS/FUSE/ICD-110KW/400V/IP-21 DRIVE
+SUBSTATION ITEMS/FUSE/ICD-250KW/400V/IP00 DRIVE
+SUBSTATION ITEMS/FUSE/ICD-75KW/400V/IP-21 DRIVE
+SUBSTATION ITEMS/FUSE/ICD-ALPHANUMERIC DISPLAY PANEL
+SUBSTATION ITEMS/FUSE/ICD-CONTROL BOARD FOR NXS
+SUBSTATION ITEMS/FUSE/ICD-IGBT (FR8),NXC,FR8 (205A)
+SUBSTATION ITEMS/FUSE/ICD-IGBT (FR8),NXS,FR8 (140A)
+SUBSTATION ITEMS/FUSE/ICD-I/O EXPANDER BOARD
+SUBSTATION ITEMS/FUSE/ICD-PROFIBUS DP
+SUBSTATION ITEMS/FUSE/ICD-RS 485 MODBUS/N2
+SUBSTATION ITEMS/FUSE/Insulators -
+SUBSTATION ITEMS/FUSE/Isolators -
+SUBSTATION ITEMS/FUSE/M.C.C.B
+SUBSTATION ITEMS/FUSE/Outdoor SF6 Circuit Breaker Type OHB
+SUBSTATION ITEMS/FUSE/Reverse Power Flow Device
+SUBSTATION ITEMS/FUSE/SF-6 GAS
+Switchgear
+Switchgear/FUSE/B-01-02/11KV/630A/26.3KA/VD4/Breaker
+Switchgear/FUSE/B-01-05/11KV/1250A/26.3KA/VD4/Breaker
+Switchgear/FUSE/B-01-07/33KV/1250A/31.5KA/VD4/Breaker with Module
+Switchgear/FUSE/SWITCHGEAR PANEL
+Switchgear/FUSE/Switchgear Panels
